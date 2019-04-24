@@ -9,12 +9,11 @@ When the program is launched, the user is presented with a login form prompting 
 
 Error messages will be displayed in the user's native language if the username and/or password do not match what's in the database. The following username and password combinations are in the database:
 
-*username*	*password*
-agent1		pass
-coolagent	pass
-dhoward		pass
-otheragent	pass
-uncoolagent	pass
+- agent1		pass
+- coolagent	pass
+- dhoward		pass
+- otheragent	pass
+- uncoolagent	pass
 
 B:Customer Records
 -----------------------
