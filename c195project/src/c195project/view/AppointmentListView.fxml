@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="c195project.controller.AppointmentListController">
+   <children>
+      <Label text="Appointments" />
+      <TableView fx:id="appointmentTable">
+        <columns>
+          <TableColumn fx:id="idColumn" prefWidth="55.0" text="ID" />
+            <TableColumn fx:id="typeColumn" prefWidth="95.0" text="Type" />
+          <TableColumn fx:id="customerColumn" prefWidth="104.0" text="Customer" />
+            <TableColumn fx:id="startColumn" prefWidth="152.0" text="Start" />
+            <TableColumn fx:id="endColumn" prefWidth="190.0" text="End" />
+        </columns>
+      </TableView>
+      <HBox prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Button fx:id="addAppointmentButton" mnemonicParsing="false" onAction="#handleAddAppointmentButton" text="Add Appointment">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Button>
+            <Button fx:id="editAppointmentButton" mnemonicParsing="false" onAction="#handleEditAppointmentButton" text="Edit Appointment">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Button>
+            <Button fx:id="deleteAppointmentButton" mnemonicParsing="false" onAction="#handleDeleteAppointmentButton" text="Delete Appointment">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Button>
+            <Button fx:id="editCustomerButton" mnemonicParsing="false" onAction="#handleEditCustomerButton" text="Edit Customer" />
+            <Label fx:id="errorPrompt" />
+         </children></HBox>
+   </children>
+</VBox>

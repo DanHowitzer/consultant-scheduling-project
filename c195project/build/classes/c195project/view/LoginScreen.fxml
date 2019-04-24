@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import java.net.URL?>
+
+<AnchorPane id="AnchorPane" prefHeight="320.0" prefWidth="320" stylesheets="@../stylesheet/c195project.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="c195project.controller.LoginScreenController">
+    <children>
+        <Label fx:id="usernameLabel" layoutX="60" layoutY="60" minHeight="16" minWidth="69" />
+        <TextField fx:id="usernameField" layoutX="60" layoutY="80" minHeight="16" minWidth="69" />
+        <Label fx:id="passwordLabel" layoutX="60" layoutY="120" minHeight="16" minWidth="69" />
+        <PasswordField fx:id="passwordField" layoutX="60" layoutY="140" minHeight="16" minWidth="69" />
+        <Button fx:id="submitButton" layoutX="60" layoutY="180" onAction="#login" />
+        <Label fx:id="errorPrompt" layoutX="60" layoutY="220" minHeight="16" minWidth="69" />
+      <Button fx:id="exitButton" layoutX="216.0" layoutY="245.0" mnemonicParsing="false" onAction="#handleExitButton" />
+    </children>
+</AnchorPane>

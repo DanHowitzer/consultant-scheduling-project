@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="c195project.controller.CustomerListViewController">
+   <children>
+      <Region minHeight="20.0" prefHeight="20.0" prefWidth="200.0" />
+      <HBox>
+         <children>
+            <Label fx:id="viewTitle" text="Customers">
+               <HBox.margin>
+                  <Insets right="15.0" />
+               </HBox.margin>
+            </Label>
+         </children>
+      </HBox>
+      <Region minHeight="20.0" prefHeight="20.0" prefWidth="200.0" />
+      <TableView fx:id="customerTable">
+        <columns>
+            <TableColumn fx:id="customerIDColumn" prefWidth="75.0" text="ID" />
+          <TableColumn fx:id="nameColumn" prefWidth="75.0" text="Name" />
+          <TableColumn fx:id="address1Column" prefWidth="75.0" text="Address 1" />
+            <TableColumn fx:id="address2Column" prefWidth="75.0" text="Address 2" />
+            <TableColumn fx:id="cityColumn" prefWidth="75.0" text="City" />
+            <TableColumn fx:id="countryColumn" prefWidth="75.0" text="Country" />
+            <TableColumn fx:id="postalCodeColumn" prefWidth="75.0" text="Postal Code" />
+            <TableColumn fx:id="phoneColumn" prefWidth="75.0" text="Phone #" />
+        </columns>
+         <VBox.margin>
+            <Insets />
+         </VBox.margin>
+      </TableView>
+      <HBox prefHeight="100.0" prefWidth="200.0">
+         <children>
+            <Button fx:id="createCustomerButton" mnemonicParsing="false" onAction="#handleCreateCustomerButton" text="Add Customer">
+               <HBox.margin>
+                  <Insets right="15.0" />
+               </HBox.margin>
+            </Button>
+            <Button fx:id="editCustomerButton" mnemonicParsing="false" onAction="#handleUpdateCustomerButton" text="Edit Customer">
+               <HBox.margin>
+                  <Insets right="15.0" />
+               </HBox.margin>
+            </Button>
+            <Button fx:id="createCustomerButton11" mnemonicParsing="false" onAction="#handleDeleteCustomerButton" text="Delete Customer">
+               <HBox.margin>
+                  <Insets right="8.0" />
+               </HBox.margin></Button>
+            <Label fx:id="errorLabel" />
+         </children>
+      </HBox>
+   </children>
+</VBox>

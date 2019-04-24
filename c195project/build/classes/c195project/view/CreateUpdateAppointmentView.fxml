@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox fx:id="mainVBox" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="c195project.controller.CreateUpdateAppointmentViewController">
+   <children>
+      <Label fx:id="paneTitle" />
+      <Label text="Customer" />
+      <ComboBox fx:id="customerList" prefWidth="150.0" />
+      <Label text="Appointment Type" />
+      <ComboBox fx:id="appointmentTypeList" prefWidth="150.0" />
+      <Label text="Date" />
+      <DatePicker fx:id="datePicker" />
+      <Label text="Start Time" />
+      <ComboBox fx:id="startTimeList" prefWidth="150.0" />
+      <Label text="End Time" />
+      <ComboBox fx:id="endTimeList" prefWidth="150.0" />
+      <Button fx:id="submitButton" mnemonicParsing="false" onAction="#handleSubmitButton">
+         <VBox.margin>
+            <Insets top="40.0" />
+         </VBox.margin></Button>
+      <Label fx:id="errorPrompt">
+         <VBox.margin>
+            <Insets top="10.0" />
+         </VBox.margin>
+      </Label>
+   </children>
+</VBox>

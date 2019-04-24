@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox fx:id="mainVBox" spacing="4.0" stylesheets="@../stylesheet/c195project.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="c195project.controller.CreateUpdateCustomerViewController">
+   <children>
+      <Label fx:id="paneTitle" />
+      <Label text="Customer Name" />
+      <TextField fx:id="customerNameField" />
+      <Label text="Address 1" />
+      <TextField fx:id="address1Field" />
+      <Label text="Address 2 (Optional)" />
+      <TextField fx:id="address2Field" />
+      <Label text="Postal Code" />
+      <TextField fx:id="postalCodeField" />
+      <Label text="Phone Number" />
+      <TextField fx:id="phoneNumberField" />
+      <Label text="Country" />
+      <ComboBox fx:id="countryList" />
+      <Label text="City" />
+      <ComboBox fx:id="cityList" />
+      <Label fx:id="errorPrompt" />
+      <Region prefHeight="20.0" prefWidth="200.0" />
+      <Button fx:id="submitButton" mnemonicParsing="false" onAction="#handleSubmitButton" text="Create User!" />
+   </children>
+</VBox>

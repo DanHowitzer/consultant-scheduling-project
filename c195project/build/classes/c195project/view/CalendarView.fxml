@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="c195project.controller.CalendarViewController">
+   <children>
+      <Label fx:id="viewTitle" text="Calendar" />
+      <HBox>
+         <children>
+            <RadioButton fx:id="monthlyRadio" mnemonicParsing="false" selected="true" text="By Month">
+               <HBox.margin>
+                  <Insets right="10.0" />
+               </HBox.margin>
+               <toggleGroup>
+                  <ToggleGroup fx:id="calendarToggle" />
+               </toggleGroup>
+            </RadioButton>
+            <RadioButton fx:id="weeklyRadio" mnemonicParsing="false" text="By Week" toggleGroup="$calendarToggle">
+               <HBox.margin>
+                  <Insets right="20.0" />
+               </HBox.margin>
+            </RadioButton>
+            <ComboBox fx:id="yearCombo">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </ComboBox>
+            <Label text="Year">
+               <HBox.margin>
+                  <Insets right="20.0" />
+               </HBox.margin>
+            </Label>
+            <ComboBox fx:id="monthCombo">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </ComboBox>
+            <Label text="Month">
+               <HBox.margin>
+                  <Insets right="20.0" />
+               </HBox.margin></Label>
+            <ComboBox fx:id="weekCombo" />
+            <Label fx:id="weekLabel" text="Week" />
+         </children>
+      </HBox>
+      <TableView fx:id="appointmentTable" prefWidth="700.0">
+         <columns>
+            <TableColumn fx:id="idColumn" prefWidth="55.0" text="ID" />
+            <TableColumn fx:id="typeColumn" prefWidth="95.0" text="Type" />
+            <TableColumn fx:id="customerColumn" prefWidth="104.0" text="Customer" />
+            <TableColumn fx:id="startColumn" prefWidth="152.0" text="Start" />
+            <TableColumn fx:id="endColumn" prefWidth="190.0" text="End" />
+         </columns>
+      </TableView>
+      <Label fx:id="errorPrompt" />
+   </children>
+</VBox>

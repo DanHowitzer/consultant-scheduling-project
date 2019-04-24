@@ -1,0 +1,149 @@
+dhoward logged in successfully at 2019-03-24T16:53:20.877945900
+dhoward logged in successfully at 2019-03-24T17:06:53.654895900
+dhoward added a new appointment at 2019-03-24T17:07:13.065841800
+dhoward logged in successfully at 2019-03-24T17:10:56.605788
+dhoward logged in successfully at 2019-03-25T10:12:20.897998200
+dhoward logged in successfully at 2019-03-25T10:17:05.542351700
+dhoward logged in successfully at 2019-03-25T10:28:39.701547700
+dhoward logged out at 2019-03-25T10:38:50.923100600
+dhoward logged in successfully at 2019-03-25T10:39:04.553836900
+dhoward added a new appointment at 2019-03-25T10:40:46.002223900
+dhoward logged in successfully at 2019-03-25T10:42:31.966610800
+dhoward added a new appointment at 2019-03-25T10:43:04.812764300
+dhoward logged in successfully at 2019-03-25T10:45:24.811002900
+dhoward added a new appointment at 2019-03-25T10:45:56.872999800
+dhoward logged in successfully at 2019-03-25T10:47:10.203511600
+dhoward added a new appointment at 2019-03-25T10:47:41.776201800
+dhoward logged in successfully at 2019-03-25T10:49:19.240875
+dhoward added a new appointment at 2019-03-25T10:49:47.929293300
+dhoward logged in successfully at 2019-03-25T10:50:51.782945900
+dhoward added a new appointment at 2019-03-25T10:51:15.178906800
+dhoward logged in successfully at 2019-03-25T11:02:10.621471800
+dhoward logged in successfully at 2019-03-25T11:08:53.044222300
+dhoward added a new appointment at 2019-03-25T11:10:14.623798
+dhoward logged in successfully at 2019-03-25T11:12:25.685622900
+dhoward logged in successfully at 2019-03-25T11:21:15.601165700
+dhoward added a new appointment at 2019-03-25T11:33:49.788923400
+dhoward logged in successfully at 2019-03-25T11:35:51.499096100
+dhoward added a new appointment at 2019-03-25T11:36:16.605321500
+dhoward deleted an appointment at 2019-03-25T11:37:52.601127700
+dhoward deleted an appointment at 2019-03-25T11:38:03.125608400
+dhoward deleted an appointment at 2019-03-25T11:38:13.426318400
+dhoward deleted an appointment at 2019-03-25T11:38:18.105047200
+dhoward added a new appointment at 2019-03-25T11:38:37.373173
+dhoward logged in successfully at 2019-03-25T12:36:46.512629300
+dhoward added a new appointment at 2019-03-25T12:37:18.229768200
+dhoward logged in successfully at 2019-03-25T13:24:04.509895800
+dhoward added a new appointment at 2019-03-25T13:25:12.241537200
+dhoward logged in successfully at 2019-03-25T13:29:50.739099400
+dhoward added a new appointment at 2019-03-25T13:30:14.421821300
+dhoward logged in successfully at 2019-03-25T13:37:28.904922700
+dhoward added a new appointment at 2019-03-25T13:38:00.492388100
+dhoward logged in successfully at 2019-03-25T13:48:51.180972
+dhoward logged in successfully at 2019-03-25T13:54:24.943896800
+dhoward logged in successfully at 2019-03-25T13:56:17.500336200
+dhoward logged in successfully at 2019-03-25T14:02:33.267359800
+dhoward added a new appointment at 2019-03-25T14:06:09.396001500
+dhoward logged in successfully at 2019-03-25T14:23:30.274155900
+dhoward added customer Another Person at 2019-03-25T14:24:37.311029100
+dhoward added customer Uncool Person at 2019-03-25T14:30:40.533178300
+dhoward added a new appointment at 2019-03-25T14:31:19.739522900
+dhoward logged in successfully at 2019-03-25T14:31:38.349233800
+dhoward logged in successfully at 2019-03-25T14:51:59.680273300
+dhoward logged in successfully at 2019-03-25T16:23:15.819727300
+dhoward logged in successfully at 2019-03-26T12:59:06.975550300
+dhoward logged in successfully at 2019-03-26T13:00:49.128772700
+dhoward logged in successfully at 2019-03-26T13:06:33.836268800
+dhoward logged in successfully at 2019-03-26T13:12:04.271360100
+dhoward logged in successfully at 2019-03-26T13:15:58.669080900
+dhoward logged in successfully at 2019-03-26T13:20:40.857736700
+dhoward logged in successfully at 2019-03-26T13:21:58.769398400
+dhoward logged in successfully at 2019-03-26T13:50:02.648566400
+dhoward logged in successfully at 2019-03-26T13:59:54.611985700
+dhoward logged in successfully at 2019-03-26T14:02:04.694814300
+dhoward logged in successfully at 2019-03-26T14:09:17.896260500
+dhoward logged in successfully at 2019-03-26T14:11:20.848761100
+dhoward logged in successfully at 2019-03-26T14:12:44.136234300
+dhoward added a new appointment at 2019-03-26T14:13:51.084333900
+dhoward logged in successfully at 2019-03-26T14:33:32.851442800
+dhoward logged in successfully at 2019-03-26T14:37:13.397918900
+dhoward logged in successfully at 2019-03-26T15:31:51.045932900
+dhoward logged in successfully at 2019-03-26T15:34:51.439417500
+dhoward logged in successfully at 2019-03-27T12:29:43.645321800
+dhoward logged in successfully at 2019-03-27T16:07:28.337246600
+dhoward logged in successfully at 2019-03-27T16:08:36.242201
+dhoward logged in successfully at 2019-04-16T08:38:00.362311500
+dhoward logged in successfully at 2019-04-16T08:40:51.881099600
+dhoward logged in successfully at 2019-04-16T08:49:37.701675200
+dhoward logged in successfully at 2019-04-16T08:57:02.674138900
+dhoward logged in successfully at 2019-04-16T09:01:56.624207900
+dhoward logged in successfully at 2019-04-16T09:03:22.130792900
+dhoward logged in successfully at 2019-04-16T09:04:56.718292700
+dhoward logged in successfully at 2019-04-16T09:06:27.156803500
+dhoward logged in successfully at 2019-04-16T09:39:58.577365300
+dhoward logged in successfully at 2019-04-16T10:12:18.335749600
+dhoward logged in successfully at 2019-04-16T12:12:53.451717500
+dhoward logged in successfully at 2019-04-16T12:13:52.590813600
+dhoward logged in successfully at 2019-04-16T12:16:29.114182200
+dhoward logged in successfully at 2019-04-16T12:19:29.686557400
+dhoward logged in successfully at 2019-04-16T12:20:11.537634800
+dhoward logged in successfully at 2019-04-16T12:22:49.132006900
+dhoward logged in successfully at 2019-04-16T12:24:06.480662700
+dhoward logged in successfully at 2019-04-16T12:31:18.138732100
+dhoward logged in successfully at 2019-04-16T12:40:17.597244300
+dhoward logged in successfully at 2019-04-16T12:44:15.415767700
+dhoward logged in successfully at 2019-04-16T12:51:10.735218600
+dhoward logged in successfully at 2019-04-16T12:53:06.571614600
+dhoward logged in successfully at 2019-04-16T12:54:35.917538200
+dhoward logged in successfully at 2019-04-21T15:08:34.988965700
+dhoward logged in successfully at 2019-04-21T15:21:36.632283
+dhoward logged in successfully at 2019-04-21T15:29:23.408613400
+dhoward logged in successfully at 2019-04-21T15:30:37.029171200
+dhoward logged in successfully at 2019-04-21T15:31:02.117576200
+dhoward logged in successfully at 2019-04-21T15:33:49.231871100
+dhoward logged in successfully at 2019-04-21T15:36:15.941444700
+dhoward logged in successfully at 2019-04-21T16:15:30.157373600
+dhoward logged in successfully at 2019-04-21T16:16:09.769979200
+dhoward logged in successfully at 2019-04-21T16:18:08.722987400
+dhoward logged in successfully at 2019-04-21T16:19:13.113843400
+dhoward logged in successfully at 2019-04-21T16:20:14.165004
+dhoward logged in successfully at 2019-04-21T16:21:09.890985800
+dhoward logged in successfully at 2019-04-21T16:21:54.895143900
+dhoward logged in successfully at 2019-04-21T16:29:03.443836600
+dhoward logged out at 2019-04-21T16:29:06.504758700
+agent1 logged in successfully at 2019-04-21T16:29:15.263611900
+agent1 added customer Neato Customer at 2019-04-21T16:30:08.943327600
+agent1 added a new appointment at 2019-04-21T16:30:43.151664600
+agent1 added a new appointment at 2019-04-21T16:31:05.868158100
+agent1 logged out at 2019-04-21T16:31:14.068544300
+agent1 logged out at 2019-04-21T16:35:14.595397200
+agent1 logged out at 2019-04-21T16:35:24.707713200
+agent1 logged out at 2019-04-21T16:37:00.603232100
+coolagent logged in successfully at 2019-04-21T16:41:38.635156100
+coolagent added a new appointment at 2019-04-21T16:42:09.498949500
+agent1 logged in successfully at 2019-04-21T18:41:09.776510
+coolagent logged in successfully at 2019-04-21T18:42:20.842186200
+dhoward logged in successfully at 2019-04-21T18:48:47.598445500
+dhoward logged in successfully at 2019-04-21T18:50:30.212903400
+dhoward logged in successfully at 2019-04-21T18:51:32.131236500
+dhoward logged in successfully at 2019-04-21T18:52:35.265693800
+dhoward logged in successfully at 2019-04-21T18:57:09.504645500
+dhoward logged in successfully at 2019-04-21T19:19:38.024564200
+dhoward logged in successfully at 2019-04-22T10:42:34.655427200
+dhoward logged in successfully at 2019-04-22T10:46:24.264808200
+dhoward logged in successfully at 2019-04-22T10:49:13.418480500
+dhoward logged in successfully at 2019-04-22T10:51:45.203496200
+dhoward logged in successfully at 2019-04-22T11:09:18.344695300
+dhoward logged in successfully at 2019-04-22T11:17:04.164750400
+dhoward logged in successfully at 2019-04-22T11:18:43.194709400
+dhoward logged in successfully at 2019-04-22T11:21:52.799717900
+dhoward logged in successfully at 2019-04-22T11:23:21.383417
+dhoward logged in successfully at 2019-04-22T11:25:13.312618500
+dhoward logged in successfully at 2019-04-22T11:30:59.315063100
+dhoward logged in successfully at 2019-04-22T11:31:22.398953
+dhoward logged in successfully at 2019-04-22T11:33:21.769252700
+dhoward logged in successfully at 2019-04-22T11:34:05.361825900
+dhoward logged in successfully at 2019-04-22T11:34:31.638245900
+dhoward logged in successfully at 2019-04-22T11:38:24.450982400
+dhoward logged in successfully at 2019-04-22T11:40:57.957744600
+dhoward logged in successfully at 2019-04-22T11:42:10.950910900

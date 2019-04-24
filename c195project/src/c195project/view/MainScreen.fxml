@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane fx:id="mainPane" minHeight="600.0" minWidth="700.0" stylesheets="@../stylesheet/c195project.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="c195project.controller.MainScreenController">
+   <top>
+      <HBox spacing="8.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="appointmentsButton" mnemonicParsing="false" onAction="#handleAppointmentsButton" text="Appointments" />
+            <Button fx:id="customersButton" mnemonicParsing="false" onAction="#handleCustomersButton" text="Customers" />
+            <Button fx:id="calendarButton" mnemonicParsing="false" onAction="#handleCalendarButton" text="Calendar" />
+            <MenuButton mnemonicParsing="false" text="Reports">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#handleAppointmentTypeReport" text="Appointment Types by Month" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleScheduleReport" text="Consultant Schedules" />
+                  <MenuItem mnemonicParsing="false" onAction="#handleConsultantListing" text="Consultant Listing" />
+               </items>
+               <HBox.margin>
+               </HBox.margin>
+            </MenuButton>
+            <Region>
+               <HBox.margin>
+                  <Insets right="100.0" />
+               </HBox.margin>
+            </Region>
+            <Button fx:id="openLogFileButton" mnemonicParsing="false" onAction="#handleOpenLogFileButton" text="Open Log File" />
+         </children>
+         <BorderPane.margin>
+         </BorderPane.margin>
+      </HBox>
+   </top>
+   <center>
+      <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER" />
+   </center>
+</BorderPane>
